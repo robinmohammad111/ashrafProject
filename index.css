@@ -1,3 +1,151 @@
 * {
-    margin: 0;
+    margin: 0; 
 }
+html,body {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-size: 18px;
+   line-height: 28px;
+}
+h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 500px;
+}
+
+h1 {
+    color: #333333;
+    font-size: 60px;
+    font-family: 'Yeseva One', cursive;
+    border-left: 4px solid #FF5959;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+.img-info ,.box-container {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  
+}
+/* first section start */
+.img-info  img {
+    width: 426px;
+   
+    
+}
+.img {
+    text-align: end;
+}
+
+.width50 {
+    width: 50%;
+}
+/* first section end */
+    #vission{
+        background-color: rgba(255, 89, 89, 0.1); 
+        /* /rgba(255, 89, 89,1) */
+    }
+/*  */
+.text-orange {
+    color: #FFAD5A;
+}
+button {
+    background-color: #FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+
+.box-img {
+   padding: 20px;
+    width: 360px;
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    
+}
+
+
+.icon img {
+    width: 141px;
+}
+/* 2nd sectiion end  */
+
+.imggg {
+    text-align: end;
+
+    width: 400px;
+}
+ /* head section start */
+
+
+/* head section end */
+
+.fot {
+    background-color: #0B0D17;
+    padding: 60px 0px;
+    text-align: center;
+    color: #D9DBE1;
+    
+   
+}
+.fot h4{
+ font-size: 36px;
+font-family: 'Yeseva One', cursive;
+}
+.btnn {
+    color: #FF5959;
+}
+.back {
+    background-image: url(images/shapes/shape-11.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.backk {
+    background-image: url(images/shapes/shape-11.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+.backk .container{
+    padding: 100px 0;
+}
+.textt h4{
+    font-size: 48px;
+    font-weight: bold;
+}
+.textt h4 .applicton-span{
+    display: block;
+}
+/* .phonepic img {
+    width: 229px;
+    height: 471px;
+
+} */
+
